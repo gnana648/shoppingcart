@@ -2,8 +2,8 @@
 import { Link, Routes, Route } from 'react-router-dom';
 import Home from './pages/home.jsx';
 import Products from './pages/products.jsx';
-import CartPage from './pages/CartPage.jsx';
-import Orders from './pages/Orders.jsx';
+import CartPage from "./pages/cartpage.jsx";
+import Orders from "./pages/orders.jsx";
 import './App.css';
 
 function App() {
